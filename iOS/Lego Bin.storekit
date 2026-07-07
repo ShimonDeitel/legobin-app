@@ -1,0 +1,29 @@
+{
+  "identifier": "storekit-config",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "2.99",
+      "familyShareable": false,
+      "internalID": "11000001",
+      "localizations": [
+        {
+          "description": "Unlimited sets and display-shelf photo layout",
+          "displayName": "Lego Bin Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.legobin.pro",
+      "referenceName": "Lego Bin Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
